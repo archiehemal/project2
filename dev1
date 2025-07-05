@@ -1,5 +1,10 @@
 dev file testing.
+<<<<<<< HEAD
 ok done
 hello
 
 commit from dev main
+=======
+
+commit from dev
+>>>>>>> dev
